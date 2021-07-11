@@ -1,1 +1,13 @@
+Name of QuantLet : Projected_IFE_Data
 
+Published in : 'A Projection-Based Approach to Interactive Fixed Effects'
+
+Description : 'Merges the Penn World Table with the World Bank Development Indicators.'
+
+Keywords : panel data, fixed effects, factor model, additive models
+
+See also : 'Projected_IFE_Simulation, Projected_IFE_Estimation'
+
+Author : Georg Keilbar
+
+Submitted : July 11 2021 by Georg Keilbar
